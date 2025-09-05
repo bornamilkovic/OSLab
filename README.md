@@ -1,5 +1,5 @@
 # OSLab
-Code solutions from laboratory exercises in Introduction to Operating Systems course at FER, University of Zagreb.
+Code solutions from laboratory exercises in the Introduction to Operating Systems course at FER, University of Zagreb.
 
 - Lab 1 (SignalsAndInterrupts):
 Managing signals and interrupts using software support with interrupt routines that handle priority management.
