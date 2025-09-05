@@ -13,3 +13,11 @@ The second code implements the PartyBreaker problem, managed using a monitor and
 
 - Lab 4 (PagingClockAlgorithm):
 Simulation of paging a large program using the clock algorithm.
+
+
+## Disclaimer
+
+This project was created as part of the course **Introduction to Operating Systems** at the Faculty of Electrical Engineering and Computing (FER), University of Zagreb, in 2025.
+
+It is published here **only for educational and portfolio purposes**.  
+Do not copy or submit this work as your own for course credit. That would constitute plagiarism and academic dishonesty.
