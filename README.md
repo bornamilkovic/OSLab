@@ -79,14 +79,6 @@ gcc [insert_file_name]
 ./a.out
 ```
 
-
----
-
-## 📸 Example Output (Screenshots)
-
-
-
-
 ---
 
 ## 🎯 What This Project Represents
@@ -99,6 +91,20 @@ Through these labs I gained hands-on experience with:
 - thread synchronization  
 - virtual memory and paging algorithms  
 - compiling C programs on Linux using `gcc` and `make`  
+
+---
+
+## 📸 Example Output (Screenshots)
+
+### Lab 3a
+
+![Lab 3a execution](screenshots/OS_lab3_print.png)
+
+### Lab 3b
+![Lab 3b execution](screenshots/OS_lab3_print2.png)
+
+### Lab 4
+![Lab 4 execution](screenshots/OS_lab4_print.png)
 
 ---
 
