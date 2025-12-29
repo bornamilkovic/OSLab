@@ -7,6 +7,20 @@ The code was developed and tested in **Ubuntu Linux running inside a VirtualBox 
 
 ---
 
+## 📂 Project Structure
+
+```
+Lab1/
+Lab2/
+Lab3/
+Lab4/
+screenshots/
+README.md
+LICENSE
+```
+
+---
+
 ## 📖 Lab Descriptions
 
 ### **Lab 1 — Signals and Interrupts**
@@ -39,7 +53,7 @@ sudo apt update
 sudo apt install build-essential
 ```
 
-This installs `gcc` and `make`.
+This installs `gcc`.
 
 ---
 
@@ -54,7 +68,7 @@ cd Lab1
 ### 3. Build the program
 
 ```bash
-make
+gcc [insert_file_name]
 ```
 
 ---
@@ -62,18 +76,9 @@ make
 ### 4. Run the program
 
 ```bash
-./lab1
+./a.out
 ```
 
-*(or another executable name depending on the lab)*
-
----
-
-### 5️⃣ Clean build files
-
-```bash
-make clean
-```
 
 ---
 
